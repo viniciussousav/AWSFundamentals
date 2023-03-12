@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UN2D2lvfXOb1RE41r58ETbN48MNQL2ubuPFYCO8SEq0=",
+  "Source": "SQSPublisher",
+  "BasePath": "_content/SQSPublisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

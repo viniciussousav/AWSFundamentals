@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aQnL3gmaqVsOkcUgSbPtHVNdqN4BTx3aLnK0QqFLH2s=",
+  "Source": "SNSPublisher",
+  "BasePath": "_content/SNSPublisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-SQSConsumer-87821DC1-7C20-4E07-8ABB-3C02433BDB7C</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AWSSDK.SQS" Version="3.7.100.62" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+    </ItemGroup>
+</Project>

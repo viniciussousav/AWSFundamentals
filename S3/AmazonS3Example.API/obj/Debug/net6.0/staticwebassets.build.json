@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R+ZRGx1/m9yBP1MM8KxG3j8tcIDN8JQ+m+jWZ017Kvo=",
+  "Source": "AmazonS3Example.API",
+  "BasePath": "_content/AmazonS3Example.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
